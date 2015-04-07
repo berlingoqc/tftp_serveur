@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\bin\Debug\tp_tftp.exe
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\bin\Debug\tp_tftp.pdb
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.frm.resources
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.Properties.Resources.resources
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.exe
+C:\Users\Administrateur\Documents\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.pdb
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.exe
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.pdb
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\bin\Debug\tp_tftp.exe
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\bin\Debug\tp_tftp.pdb
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.frm.resources
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Nouveau dossier (2)\tp_tftp\tp_tftp\obj\x86\Debug\tp_tftp.csproj.GenerateResource.Cache
